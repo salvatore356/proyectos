@@ -1,2 +1,2 @@
 # proyectos
-Este repositorio es un baul donde se guardan algunos proyectos desarrollados
+En este repositorio se guardan algunos proyectos personales y academicos desarrollados.
