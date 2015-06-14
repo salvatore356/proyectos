@@ -1,8 +1,6 @@
 # proyectos
 En este repositorio se guardan algunos proyectos personales y academicos desarrollados.
 
-El resultado visual de los proyectos
-
 # Assembler
 
 ### Simulador de partidos
