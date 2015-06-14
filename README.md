@@ -41,9 +41,9 @@ Fin del juego
 
 ## Rock Monster
 
-Uno de mis primeros programas desarrollados en java, desarrollado con dos compañeros (era el primer programa de todos) :)
+Uno de mis primeros programas en java, desarrollado con dos compañeros mas (era el primer programa de todos) :)
 
-Es un juego del tipo worms donde el objetivo es que los jugadores es eliminar al contrincante con sus ataques.
+Es un juego del tipo worms donde el objetivo de los jugadores es eliminar al contrincante con sus ataques.
 
 Pantalla principal
 
