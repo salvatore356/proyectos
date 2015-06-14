@@ -1,4 +1,4 @@
-# proyectos
+# PROYECTOS
 En este repositorio se guardan algunos proyectos personales y academicos desarrollados.
 
 # Assembler
