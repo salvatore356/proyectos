@@ -3,7 +3,7 @@ En este repositorio se guardan algunos proyectos personales y academicos desarro
 
 # Assembler
 
-### Simulador de partidos
+### Simulador de partidos (2006)
 
 Este programa fue desarrollado para un sistema operativo de 32bits.
 El objetivo de este programa es simular el resultado de un encuentro de fútbol entre dos equipos.
@@ -39,7 +39,7 @@ Fin del juego
 
 # Java
 
-## Rock Monster
+## Rock Monster (2007)
 
 Uno de mis primeros programas en java, desarrollado con dos compañeros mas (era el primer programa de todos) :)
 
